@@ -15,8 +15,8 @@
 class S2s < Formula
   desc "Governed AI-assisted software delivery orchestrator"
   homepage "https://github.com/guschiriboga/spec-to-ship"
-  license "MIT"
   version "0.2.38"
+  license "MIT"
 
   on_macos do
     on_arm do
